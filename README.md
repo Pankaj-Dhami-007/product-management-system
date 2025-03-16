@@ -1,7 +1,7 @@
-# Product Catalog Management System
+# ProductManagement System
 
 ### Introduction
-The **Product Catalog Management System** is a comprehensive solution for managing products and categories, designed using **Spring Boot**. It includes secure CRUD operations for products and categories, JWT-based authentication and authorization, and RESTful APIs for seamless integration. The system is built to ensure scalability, security, and maintainability, making it a robust platform for product management.
+The **Product Management System** is a comprehensive solution for managing products and categories, designed using **Spring Boot**. It includes secure CRUD operations for products and categories, JWT-based authentication and authorization, and RESTful APIs for seamless integration. The system is built to ensure scalability, security, and maintainability, making it a robust platform for product management.
 
 This project also provides detailed API documentation using **Swagger** and includes a **Postman collection** for testing the endpoints. By leveraging **Spring Data JPA**, it simplifies database operations and ensures efficient interaction with the underlying database.
 
